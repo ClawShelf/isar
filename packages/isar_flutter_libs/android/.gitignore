@@ -6,3 +6,6 @@
 .DS_Store
 /build
 /captures
+
+# include compiled libisar downloaded from https://github.com/isar/isar/releases/tag/3.1.0%2B1
+!*.so
